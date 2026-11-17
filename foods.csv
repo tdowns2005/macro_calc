@@ -1,0 +1,63 @@
+food_name,category,serving_grams,calories_kcal,protein_g,carbohydrate_g,total_sugars_g,added_sugars_g,fat_g,saturated_fat_g,added_sugars_basis,source_fdc_id,source_url
+Apple with skin - raw,Fruit,100,52,0.26,13.81,10.39,0,0.17,0.028,inferred zero for plain food with no added sweetener,171688,https://fdc.nal.usda.gov/food-details/171688/nutrients
+Banana - raw,Fruit,100,89,1.09,22.84,12.23,0,0.33,0.112,inferred zero for plain food with no added sweetener,173944,https://fdc.nal.usda.gov/food-details/173944/nutrients
+Orange - raw peeled,Fruit,100,47,0.94,11.75,9.35,0,0.12,0.015,inferred zero for plain food with no added sweetener,169097,https://fdc.nal.usda.gov/food-details/169097/nutrients
+Strawberries - raw,Fruit,100,32,0.67,7.68,4.89,0,0.3,0.015,inferred zero for plain food with no added sweetener,167762,https://fdc.nal.usda.gov/food-details/167762/nutrients
+Blueberries - raw,Fruit,100,57,0.74,14.49,9.96,0,0.33,0.028,inferred zero for plain food with no added sweetener,171711,https://fdc.nal.usda.gov/food-details/171711/nutrients
+Grapes red or green - raw,Fruit,100,69,0.72,18.1,15.48,0,0.16,0.054,inferred zero for plain food with no added sweetener,174683,https://fdc.nal.usda.gov/food-details/174683/nutrients
+Avocado - raw flesh,Fruit,100,160,2,8.53,0.66,0,14.66,2.126,inferred zero for plain food with no added sweetener,171705,https://fdc.nal.usda.gov/food-details/171705/nutrients
+Watermelon - raw flesh,Fruit,100,30,0.61,7.55,6.2,0,0.15,0.016,inferred zero for plain food with no added sweetener,167765,https://fdc.nal.usda.gov/food-details/167765/nutrients
+Pineapple - raw flesh,Fruit,100,50,0.54,13.12,9.85,0,0.12,0.009,inferred zero for plain food with no added sweetener,169124,https://fdc.nal.usda.gov/food-details/169124/nutrients
+Peach yellow - raw,Fruit,100,39,0.91,9.54,8.39,0,0.25,0.019,inferred zero for plain food with no added sweetener,169928,https://fdc.nal.usda.gov/food-details/169928/nutrients
+Broccoli - raw,Vegetable,100,34,2.82,6.64,1.7,0,0.37,0.114,inferred zero for plain food with no added sweetener,170379,https://fdc.nal.usda.gov/food-details/170379/nutrients
+Carrot - raw,Vegetable,100,41,0.93,9.58,4.74,0,0.24,0.032,inferred zero for plain food with no added sweetener,170393,https://fdc.nal.usda.gov/food-details/170393/nutrients
+Spinach - raw,Vegetable,100,23,2.86,3.63,0.42,0,0.39,0.063,inferred zero for plain food with no added sweetener,168462,https://fdc.nal.usda.gov/food-details/168462/nutrients
+Tomato red - raw,Vegetable,100,18,0.88,3.89,2.63,0,0.2,0.028,inferred zero for plain food with no added sweetener,170457,https://fdc.nal.usda.gov/food-details/170457/nutrients
+Cucumber with peel - raw,Vegetable,100,15,0.65,3.63,1.67,0,0.11,0.037,inferred zero for plain food with no added sweetener,168409,https://fdc.nal.usda.gov/food-details/168409/nutrients
+Red bell pepper - raw,Vegetable,100,26,0.99,6.03,4.2,0,0.3,0.059,inferred zero for plain food with no added sweetener,170108,https://fdc.nal.usda.gov/food-details/170108/nutrients
+Onion - raw,Vegetable,100,40,1.1,9.34,4.24,0,0.1,0.042,inferred zero for plain food with no added sweetener,170000,https://fdc.nal.usda.gov/food-details/170000/nutrients
+Potato with skin - baked without salt,Vegetable,100,93,2.5,21.15,1.18,0,0.13,0.034,inferred zero for plain food with no added sweetener,170093,https://fdc.nal.usda.gov/food-details/170093/nutrients
+Sweet potato flesh - baked without salt,Vegetable,100,90,2.01,20.71,6.48,0,0.15,0.052,inferred zero for plain food with no added sweetener,168483,https://fdc.nal.usda.gov/food-details/168483/nutrients
+White mushroom - raw,Vegetable,100,22,3.09,3.26,1.98,0,0.34,0.05,inferred zero for plain food with no added sweetener,169251,https://fdc.nal.usda.gov/food-details/169251/nutrients
+Romaine lettuce - raw,Vegetable,100,17,1.23,3.29,1.19,0,0.3,0.039,inferred zero for plain food with no added sweetener,169247,https://fdc.nal.usda.gov/food-details/169247/nutrients
+White rice long grain - cooked,Grain,100,130,2.69,28.17,0.05,0,0.28,0.077,inferred zero for plain food with no added sweetener,168878,https://fdc.nal.usda.gov/food-details/168878/nutrients
+Brown rice long grain - cooked,Grain,100,123,2.74,25.58,0.24,0,0.97,0.26,inferred zero for plain food with no added sweetener,169704,https://fdc.nal.usda.gov/food-details/169704/nutrients
+Quinoa - cooked,Grain,100,120,4.4,21.3,0.87,0,1.92,0.231,inferred zero for plain food with no added sweetener,168917,https://fdc.nal.usda.gov/food-details/168917/nutrients
+Pasta enriched - cooked without salt,Grain,100,158,5.8,30.86,0.56,0,0.93,0.176,inferred zero for plain food with no added sweetener,169737,https://fdc.nal.usda.gov/food-details/169737/nutrients
+Oats plain - dry,Grain,100,379,13.15,67.7,0.99,0,6.52,1.11,inferred zero for plain food with no added sweetener,173904,https://fdc.nal.usda.gov/food-details/173904/nutrients
+Chicken breast skinless - roasted,Protein,100,165,31.02,0,0,0,3.57,1.01,inferred zero for plain food with no added sweetener,171477,https://fdc.nal.usda.gov/food-details/171477/nutrients
+Turkey breast meat only - roasted,Protein,100,147,30.13,0,0,0,2.08,0.593,inferred zero for plain food with no added sweetener,171496,https://fdc.nal.usda.gov/food-details/171496/nutrients
+Ground beef 90 percent lean - pan browned,Protein,100,230,28.45,0,0,0,12.04,4.712,inferred zero for plain food with no added sweetener,171794,https://fdc.nal.usda.gov/food-details/171794/nutrients
+Atlantic salmon farmed - cooked dry heat,Protein,100,206,22.1,0,0,0,12.35,2.397,inferred zero for plain food with no added sweetener,175168,https://fdc.nal.usda.gov/food-details/175168/nutrients
+Light tuna canned in water - drained,Protein,100,86,19.44,0,0,0,0.96,0.211,inferred zero for plain food with no added sweetener,173709,https://fdc.nal.usda.gov/food-details/173709/nutrients
+Shrimp - cooked,Protein,100,99,23.98,0.2,,0,0.28,0.056,inferred zero for plain food with no added sweetener,175180,https://fdc.nal.usda.gov/food-details/175180/nutrients
+Whole egg - hard boiled peeled,Protein,100,155,12.58,1.12,1.12,0,10.61,3.267,inferred zero for plain food with no added sweetener,173424,https://fdc.nal.usda.gov/food-details/173424/nutrients
+Egg white - raw,Protein,100,52,10.9,0.73,0.71,0,0.17,0,inferred zero for plain food with no added sweetener,172183,https://fdc.nal.usda.gov/food-details/172183/nutrients
+Whole milk 3.25 percent - plain,Dairy,100,61,3.15,4.8,5.05,0,3.25,1.865,inferred zero for plain food with no added sweetener,171265,https://fdc.nal.usda.gov/food-details/171265/nutrients
+Milk 2 percent - plain,Dairy,100,50,3.3,4.8,5.06,0,1.98,1.257,inferred zero for plain food with no added sweetener,171267,https://fdc.nal.usda.gov/food-details/171267/nutrients
+Skim milk - plain,Dairy,100,34,3.37,4.96,5.09,0,0.08,0.056,inferred zero for plain food with no added sweetener,171269,https://fdc.nal.usda.gov/food-details/171269/nutrients
+Greek yogurt nonfat - plain unsweetened,Dairy,100,59,10.19,3.6,3.24,0,0.39,0.117,inferred zero for plain food with no added sweetener,170894,https://fdc.nal.usda.gov/food-details/170894/nutrients
+Cheddar cheese,Dairy,100,403,22.87,3.37,0.48,0,33.31,18.867,inferred zero for plain food with no added sweetener,173414,https://fdc.nal.usda.gov/food-details/173414/nutrients
+Cottage cheese 2 percent - plain,Dairy,100,81,10.45,4.76,4,0,2.27,1.235,inferred zero for plain food with no added sweetener,172182,https://fdc.nal.usda.gov/food-details/172182/nutrients
+Mozzarella part skim low moisture,Dairy,100,295,23.75,5.58,1.9,0,19.78,11.295,inferred zero for plain food with no added sweetener,171244,https://fdc.nal.usda.gov/food-details/171244/nutrients
+Black beans - boiled without salt,Legume,100,132,8.86,23.71,0.32,0,0.54,0.139,inferred zero for plain food with no added sweetener,173735,https://fdc.nal.usda.gov/food-details/173735/nutrients
+Chickpeas - boiled without salt,Legume,100,164,8.86,27.42,4.8,0,2.59,0.269,inferred zero for plain food with no added sweetener,173757,https://fdc.nal.usda.gov/food-details/173757/nutrients
+Lentils - boiled without salt,Legume,100,116,9.02,20.13,1.8,0,0.38,0.053,inferred zero for plain food with no added sweetener,172421,https://fdc.nal.usda.gov/food-details/172421/nutrients
+Firm tofu calcium set - raw plain,Legume,100,144,17.27,2.78,,0,8.72,1.261,inferred zero for plain food with no added sweetener,172475,https://fdc.nal.usda.gov/food-details/172475/nutrients
+Edamame - prepared shelled,Legume,100,121,11.91,8.91,2.18,0,5.2,0.62,inferred zero for plain food with no added sweetener,168411,https://fdc.nal.usda.gov/food-details/168411/nutrients
+Almonds - plain,Nut or seed,100,579,21.15,21.55,4.35,0,49.93,3.802,inferred zero for plain food with no added sweetener,170567,https://fdc.nal.usda.gov/food-details/170567/nutrients
+Walnuts English - plain,Nut or seed,100,654,15.23,13.71,2.61,0,65.21,6.126,inferred zero for plain food with no added sweetener,170187,https://fdc.nal.usda.gov/food-details/170187/nutrients
+Peanuts - dry roasted without salt,Nut or seed,100,587,24.35,21.26,4.9,0,49.66,7.723,inferred zero for plain food with no added sweetener,173806,https://fdc.nal.usda.gov/food-details/173806/nutrients
+Chia seeds - dried,Nut or seed,100,486,16.54,42.12,,0,30.74,3.33,inferred zero for plain food with no added sweetener,170554,https://fdc.nal.usda.gov/food-details/170554/nutrients
+Sunflower seed kernels - dried,Nut or seed,100,584,20.78,20,2.62,0,51.46,4.455,inferred zero for plain food with no added sweetener,170562,https://fdc.nal.usda.gov/food-details/170562/nutrients
+Olive oil,Fat or oil,100,884,0,0,0,0,100,13.808,inferred zero for plain food with no added sweetener,171413,https://fdc.nal.usda.gov/food-details/171413/nutrients
+Canola oil,Fat or oil,100,884,0,0,0,0,100,7.365,inferred zero for plain food with no added sweetener,172336,https://fdc.nal.usda.gov/food-details/172336/nutrients
+Butter salted,Fat or oil,100,717,0.85,0.06,0.06,0,81.11,51.368,inferred zero for plain food with no added sweetener,173410,https://fdc.nal.usda.gov/food-details/173410/nutrients
+White granulated sugar,Sweetener,100,387,0,99.98,99.8,99.8,0,0,total sugars counted as added sugar for this sweetener,169655,https://fdc.nal.usda.gov/food-details/169655/nutrients
+Honey,Sweetener,100,304,0.3,82.4,82.12,82.12,0,0,total sugars counted as added sugar for this sweetener,169640,https://fdc.nal.usda.gov/food-details/169640/nutrients
+Pure maple syrup,Sweetener,100,260,0.04,67.04,60.46,60.46,0.06,0.007,total sugars counted as added sugar for this sweetener,169661,https://fdc.nal.usda.gov/food-details/169661/nutrients
+Brown sugar,Sweetener,100,380,0.12,98.09,97.02,97.02,0,0,total sugars counted as added sugar for this sweetener,168833,https://fdc.nal.usda.gov/food-details/168833/nutrients
+Black coffee - brewed unsweetened,Beverage,100,1,0.12,0,0,0,0.02,0.002,inferred zero for plain food with no added sweetener,171890,https://fdc.nal.usda.gov/food-details/171890/nutrients
+Black tea - brewed unsweetened,Beverage,100,1,0,0.3,0,0,0,0.002,inferred zero for plain food with no added sweetener,173227,https://fdc.nal.usda.gov/food-details/173227/nutrients
+
+Cookie,Pastry,35.0,110.0,0.0,20.0,12.0,12.0,3.0,1.5,user-entered,,
